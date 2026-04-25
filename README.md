@@ -48,7 +48,7 @@ Criar uma interface intuitiva e agradável para facilitar o processo de matrícu
 git clone https://github.com/Anaelica/formulario-matricula.git
 
 2. Acesse a pasta do projeto:
-cd seu-repositorio
+cd formulario-matricula
 
 3. Abra o arquivo index.html no navegador.
 
